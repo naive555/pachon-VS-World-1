@@ -6,6 +6,11 @@
 
 เข้าไปที่โฟลเดอร์ `JAR` กดไฟล์ `pachon_VS_world` เพื่อเริ่มเล่นเกม
 
+# 🛠🛠 Requirement
+* Eclipes
+* Tilemap
+* Paint.net
+
 # 👨‍👨‍👦‍👦 Team Member
 
 |          ชื่อ         |  รหัส นศ  |    Git    |
